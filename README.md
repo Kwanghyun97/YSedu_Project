@@ -1,11 +1,9 @@
-# YSedu_Project
+# 처음 하는 개인 프로젝트 
 
-# 내 방 어디? v1(~2023.02.01)
-[내 방 어디? 링크](https://myroomwhere.streamlit.app/) <br/><br/>
-[발표 영상](https://www.youtube.com/watch?v=RbN39pUA1Ww) <br/><br/>
-[데모 시연](https://www.youtube.com/watch?v=j3rdthS7PM8) <br/><br/>
-[포트폴리오](https://github.com/SeungKyu37/project2/blob/main/pdf/%EB%B6%80%EB%8F%99%EC%82%B0_%EB%A7%A4%EB%AC%BC%EC%A0%95%EB%B3%B4_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)<br/><br/>
-![screensh](img/홈페이지.png)
+# 프로젝트 주제 : 스마트 스토어 마케팅 전략 을 위한 어플 개발
+## 기간 : 2023/03/01 ~ 2023/03/02
+[PPT 자료](https://github.com/Kwanghyun97/YSedu_personal_Project.git/키워드 트랜드 파악을 위한 API 만들기 (1).pdf) <br/><br/>
+
 
 ## 목적
 계약일 기준 2022년 1월 1일부터 현재까지의 **서울시 전/월세 실거래 데이터 기반 검색** 및 **전세 시세 예측** 웹 개발
