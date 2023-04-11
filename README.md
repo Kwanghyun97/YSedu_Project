@@ -10,6 +10,6 @@ PDF 자료 : [PDF](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/ma
 - User_Target : 스마트 스토어 예비 창업자 및 
 
 ### 데이터 출처
-- 네이버 쇼핑 API 에서 Scrap
+- **네이버 쇼핑 API** 에서 Scrap
 - 사용이유 : 네이버 쇼핑이 전자 상거래 시장규모가 가장 큼.
 
