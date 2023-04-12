@@ -39,15 +39,16 @@
       [**→ category 검색기 code 보러 가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/category_dictionary.py)
     
 
- 2 . **연령대 별, 접속 환경 (PC, Mobile)에 따른** 상대 클릭수 **시계열 그래프 그리기**
+2. **연령대 별, 접속 환경 (PC, Mobile)에 따른** 상대 클릭수 **시계열 그래프 그리기**
 
-   [→ code 보러가기](https://www.notion.so/PC-Mobile-3ece076370094add973487eafe8ffd8d)
+      [**→ code 보러가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/plot_relative_clicks.py)
+   
 
- 3 . **연령대 , 성별 , 접속 환경(PC,Mobile)에 따른** 상대클릭수 **시계열 그래프 그리기**
+3. **연령대 , 성별 , 접속 환경(PC,Mobile)에 따른** 상대클릭수 **시계열 그래프 그리기**
 
-   [→ code 보러가기](https://www.notion.so/PC-Mobile-fcd561f31b80424ebf144abae016b495)
+      [**→ code 보러가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/plot_relative_clicks_2.py)
 
-1. 팔고자 하는 **물품 상위 100개의 가격** 및 **상위 10개의 브랜드** 와 **쇼핑몰 플랫폼** (쿠팡, 네이버...)
+4. 팔고자 하는 **물품 상위 100개의 가격** 및 **상위 10개의 브랜드** 와 **쇼핑몰 플랫폼** (쿠팡, 네이버...)
     
        [→ code 보러가기](https://www.notion.so/100-10-bda0939ec3634e8293b30a9a39f3a423)
     
