@@ -38,6 +38,9 @@
     
     [**→ category 검색기 code 보러 가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/category_dictionary.py)
     
+2. **네이버 데이터 랩 API**를 이용하여 연령대, 성별, 접속 환경에 따른 상대 클릭수를 추출하여, **엑셀 파일로 저장**
+    
+      [**→ code 보러가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/get_relative_clicks.py)
 
 2. **연령대 별, 접속 환경 (PC, Mobile)에 따른** 상대 클릭수 **시계열 그래프 그리기**
     
