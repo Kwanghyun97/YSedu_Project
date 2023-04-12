@@ -55,4 +55,17 @@
 
       [**→ code 보러가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/get_shop_info.py) 
       ![Untitled](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/get_shop_info.png)
-      
+
+### 위 어플을 통한 "자동우산" 의 광고 마케팅 전략
+1. 모든 연령층 대부분 **6월 > 8월 > 7월** 순으로 상품의 **상대 클릭수**가 많았다. 
+   -> 6월, 8월, 7월 에 광고 빈도수 높힌다.
+
+2. 접속 환경에 따른 **상대 클릭수**가 크게 차이 나지않음.
+   -> 광고 비율을 PC / Moblie 50 대 50 으로
+
+3. 인기 상위 100개의 평균 가격은 **12473원**
+
+4. 네이버 쇼핑몰에서 제일 구매가 많음.
+   -> 네이버 쇼핑몰을 Target 하여 **광고 집중화**
+
+5. 카카오 프렌즈가 가장 인기가 많음.
