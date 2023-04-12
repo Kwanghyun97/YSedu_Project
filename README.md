@@ -42,14 +42,14 @@
 2. **연령대 별, 접속 환경 (PC, Mobile)에 따른** 상대 클릭수 **시계열 그래프 그리기**
     
       [**→ code 보러가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/plot_relative_clicks.py)
-    
+      ![Untitled](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/%EC%9E%90%EB%8F%99%EC%9A%B0%EC%82%B0_pc_mo_relative_clicks.png)
 
    
 
 3. **연령대 , 성별 , 접속 환경(PC,Mobile)에 따른** 상대클릭수 **시계열 그래프 그리기**
 
       [**→ code 보러가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/plot_relative_clicks_2.py)
-      
+      ![Untitled](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/%EC%9E%90%EB%8F%99%EC%9A%B0%EC%82%B0_gender_relative_clicks.png)      
 
 4. 팔고자 하는 **물품 상위 100개의 가격** 및 **상위 10개의 브랜드** 와 **쇼핑몰 플랫폼** (쿠팡, 네이버...)
     
