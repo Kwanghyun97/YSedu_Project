@@ -52,6 +52,7 @@
       ![Untitled](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/%EC%9E%90%EB%8F%99%EC%9A%B0%EC%82%B0_gender_relative_clicks.png)      
 
 4. 팔고자 하는 **물품 상위 100개의 가격** 및 **상위 10개의 브랜드** 와 **쇼핑몰 플랫폼** (쿠팡, 네이버...)
+
       [**→ code 보러가기**](ttps://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/get_shop_info.py) 
       ![Untitled](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/get_shop_info.png)
       
