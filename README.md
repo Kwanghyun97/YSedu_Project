@@ -36,17 +36,20 @@
 1. **category 검색기** (사용자가 직접 카테고리 (대/중/소) 에 따른 category code 검색이 가능함. )
     - 네이버 쇼핑 API에 request 를 할때, 설정이 필요한 parameter 중 category code가 존재함. 해당 코드는 약 5000개 정도 있으며, 사용자가 직접 찾기 어려움이 있으므로 해당 코드 만듦.
     
-      [**→ category 검색기 code 보러 가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/category_dictionary.py)
+    [**→ category 검색기 code 보러 가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/category_dictionary.py)
     
 
 2. **연령대 별, 접속 환경 (PC, Mobile)에 따른** 상대 클릭수 **시계열 그래프 그리기**
-
+    
       [**→ code 보러가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/plot_relative_clicks.py)
+    
+
    
 
 3. **연령대 , 성별 , 접속 환경(PC,Mobile)에 따른** 상대클릭수 **시계열 그래프 그리기**
 
       [**→ code 보러가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/plot_relative_clicks_2.py)
+      
 
 4. 팔고자 하는 **물품 상위 100개의 가격** 및 **상위 10개의 브랜드** 와 **쇼핑몰 플랫폼** (쿠팡, 네이버...)
     
