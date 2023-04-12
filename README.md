@@ -34,7 +34,7 @@
 ### 프로그램 기능
 
 1. **category 검색기** (사용자가 직접 카테고리 (대/중/소) 에 따른 category code 검색이 가능함. )
-    - 네이버 쇼핑 API에 request 를 할때, 설정이 필요한 parameter 중 category code가 존재함. 해당 코드는 약 5000개 정도 있으며, 사용자가 직접 찾기 어려움이 있으므로 해당 코드 만듦.
+   - 네이버 쇼핑 API에 request 를 할때, 설정이 필요한 parameter 중 category code가 존재함. 해당 코드는 약 5000개 정도 있으며, 사용자가 직접 찾기 어려움이 있으므로 해당 코드 만듦.
     
     [**→ category 검색기 code 보러 가기**](https://github.com/Kwanghyun97/YSedu_personal_Project/blob/main/category_dictionary.py)
     
